@@ -18,3 +18,6 @@
 * **自然語言處理 (NLP)**：`Hugging Face Transformers` / `NLTK` / `Spacy` / `jieba`
 * **資料處理**：`NumPy`, `pandas`
 * **視覺化工具**：`matplotlib` 
+
+---
+https://colab.research.google.com/drive/1vklKOgj18yO7ZgXExbjj3z7IR_xAwYr-?usp=sharing
